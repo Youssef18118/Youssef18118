@@ -1,17 +1,29 @@
 <h1 align="center">Hi, I'm Youssef Ezzat</h1>
 <h3 align="center">A passionate Backend and Mobile Developer</h3>
 
-- 🌱 I’m currently learning **.NET Core** and enhancing my skills in **Flutter** for mobile app development.  
-- 💬 Ask me about **Flutter, Dart, C++, Java, C#, .NET Core**  
-- 📱 Recently developed a **GreenLife Mobile App** using Flutter for plant lovers, which includes real-time API integration and local storage.  
-- 📫 How to reach me **youssifezzat4@gmail.com**  
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1A1Op6Lb5SiaubqBeDqaTPUDL0EDBHvxQ/view?usp=sharing)  
+<h3 align="center">About Me</h3>
+<div align="left" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto; text-align: left;">
+  <p>I am a passionate Mobile Developer specializing in Flutter and Dart. My primary focus is creating intuitive and performant mobile applications that provide users with seamless experiences. With a strong foundation in Flutter, I develop cross-platform apps that run smoothly on both iOS and Android.</p>
+
+  <p>I recently developed the GreenLife Mobile App, an app designed for plant lovers to help them care for their plants. This project showcases my skills in API integration, local storage, and real-time data handling using Firebase and Hive for offline support.</p>
+
+  <p>I am constantly refining my mobile development skills and exploring new technologies to deliver innovative solutions. Currently, I am enhancing my knowledge in mobile architecture, state management, and performance optimization to take my apps to the next level.</p>
+
+  <p>I’m always eager to collaborate on exciting mobile projects and open to new opportunities in the mobile app development space. Let’s connect!</p>
+  <p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1A1Op6Lb5SiaubqBeDqaTPUDL0EDBHvxQ/view?usp=sharing"><strong>CV</strong></a></p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/youssif-ezzat-b8a453175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssif-ezzat-b8a453175" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/youssif-ezzat-b8a453175" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssif-ezzat-b8a453175" height="30" width="40" />
+  </a>
   <a href="https://github.com/Youssef18118" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yourusername" height="30" width="40" />
+  </a>
+  
+  <a href="mailto:youssifezzat4@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" />
   </a>
 </p>
 
@@ -45,4 +57,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
